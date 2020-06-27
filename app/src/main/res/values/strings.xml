@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">INF0251Atrabalho1</string>
+    <string name="ok">OK</string>
+    <string name="error">Erro!</string>
+    <string name="save">Salvar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Deletar</string>
+    <string name="title">Título</string>
+    <string name="description">Descrição</string>
+    <string name="save_photo_fail">Falha ao salvar foto.</string>
+    <string name="update_photo_fail">Falha ao atualizar foto.</string>
+    <string name="delete_photo_fail">Falha ao deletar foto.</string>
+    <string name="save_photo_success">Foto salva com sucesso.</string>
+    <string name="update_photo_success">Foto atualizada com sucesso.</string>
+    <string name="delete_photo_success">Foto deletada com sucesso.</string>
+    <string name="delete_photo_warning">Confirma a exclusão da foto?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+</resources>
